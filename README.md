@@ -3,4 +3,4 @@ Just another repository
 
 Hello Everyone.
 
-I jose. I want to learn how to code. 
+I am jose. I want to learn how to code. 
